@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Email This Page",
-    "version": "2.1",
-    "description": "A utility extension to email web pages",
+    "name": "View webpage as TXT",
+    "version": "1.0",
+    "description": "Chrome Extension to open web pages with w3.org html2txt",
     "minimum_chrome_version": "88",
     "permissions": [
         "contextMenus", "activeTab"
